@@ -1,4 +1,11 @@
-### Hi there 👋
+### Ola 👋
+### eu sou Théo
+### e eu adoro programar em C++, Lua e Python
+###
+
+
+
+
 
 <!--
 **TheoLomeuBraga/TheoLomeuBraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
