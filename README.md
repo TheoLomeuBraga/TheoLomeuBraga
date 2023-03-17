@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoLomeuBraga&langs_count=8&theme=dark&layout=compact)](https://github.com/TheoLomeuBraga/github-readme-stats)
+
+tambem tenho conhecimento de Java, javascript e typescript (mesmo gue limitado)
