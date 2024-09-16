@@ -4,7 +4,7 @@
 ###
 
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,c++,godot,blender,lua,javascript)](https://skillicons.dev)
 
 
 <!--
